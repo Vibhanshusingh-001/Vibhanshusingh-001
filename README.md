@@ -3,12 +3,11 @@
 <h3 align="center">Clinical Bioinformatician @ NGS & AI Research Enthusiast</h3>
 
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/2d278787-6db8-4a48-a3e6-f06763450cd8"
-    alt="Profile Banner"
-    width="400"
-  />
+  <img src="https://github.com/user-attachments/assets/a20e8050-3d57-4db1-8d72-6848e58b2954" 
+       alt="Profile Banner" 
+       width="400" />
 </p>
+
 
 
 ---
