@@ -2,13 +2,13 @@
 <h1 align="center">Hi , I'm Vibhanshu Singh</h1>
 <h3 align="center">Clinical Bioinformatician @ NGS & AI Research Enthusiast</h3>
 
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a20e8050-3d57-4db1-8d72-6848e58b2954" 
-       alt="Profile Banner" 
-       width="400" />
+  <img alt="Bioinformatics Coding"
+       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+       width="550" />
 </p>
-
-
 
 ---
 
@@ -73,4 +73,8 @@
   <img src="https://skillicons.dev/icons?i=python,r,bash,linux,cpp,git,azure,gcp,aws" />
 </p>
 
----
+
+
+
+
+
